@@ -71,7 +71,7 @@ def graphMP3_amp(filename=None):
         plt.title(filename.split("/")[-1:][0] + " channel " + str(x) )
         plt.show()
 
-#this crashes very easily
+#can be slow with big files
 def graphMP3_freq(filename=None):
 
     if(filename==None):
