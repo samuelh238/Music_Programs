@@ -3,12 +3,16 @@ A collection of musical software and 3rd party python apps to aid those learning
 
 Audio Grapher
 
--Graphs .wav or .mp3 file using matplotlib
+  -Graphs .wav or .mp3 file using matplotlib
 
 BPM Detector
 
--3rd party BPM calculator using DWT
+  -3rd party BPM calculator using DWT
 
 Tab to Sheet
 
--Converts guitar pro json data from Songsterr to musicxml. Recommended to be used with musescore 3.6
+  -Converts guitar pro json data from Songsterr to musicxml. Recommended to be used with musescore 3.6
+
+Add_Count_Off
+
+  -Uses 3rd apps to find bpm of the song and put a 4 beat count off at the begining of the song
