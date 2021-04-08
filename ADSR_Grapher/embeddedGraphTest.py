@@ -44,7 +44,7 @@ class MainWindow(QtWidgets.QMainWindow):
         super(MainWindow, self).__init__(*args, **kwargs)
 
         #Load the UI Page
-        uic.loadUi('embeddedGraphTest.ui', self)
+        uic.loadUi('C:\\Users\\Sam\\AppData\\Local\\Programs\\Python\\Python38\\Music_Programs\\Music_Programs\\ADSR_Grapher\\embeddedGraphTest.ui', self) #TODO change to relative path
 
         #freq line edit val
         self.onlyDouble = QtGui.QDoubleValidator()
