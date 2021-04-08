@@ -16,3 +16,8 @@ Tab to Sheet
 Add_Count_Off
 
   -Uses 3rd apps to find bpm of the song and put a 4 beat count off at the begining of the song
+  
+ADSR_Grapher
+
+  -Displays ADSR curve and sine curve of the given frequency. User can modify Attack Decay Sustain and Release. Resulting Curve is graphed and original and ADSR Sine curve can be played back
+  
