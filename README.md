@@ -19,5 +19,5 @@ Add_Count_Off
   
 ADSR_Grapher
 
-  -Displays ADSR curve and sine curve of the given frequency. User can modify Attack Decay Sustain and Release. Resulting Curve is graphed and original and ADSR Sine curve can be played back
+  -Displays ADSR curve and sine curve of the given frequency. User can modify Attack Decay Sustain and Release. Resulting Curve is graphed and original and ADSR Sine curve can be played back. Uses 3rd party lib to generate sound waves.
   
