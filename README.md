@@ -15,7 +15,7 @@ Tab to Sheet
 
 Add_Count_Off
 
-  -Uses 3rd apps to find bpm of the song and put a 4 beat count off at the beginning of the song
+  -Uses 3rd party lib to find bpm of the song and put a 4 beat count off at the beginning of the song
   
 ADSR_Grapher
 
